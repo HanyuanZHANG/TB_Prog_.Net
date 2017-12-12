@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\bin\Debug\server.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\bin\Debug\server.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\bin\Debug\server.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\bin\Debug\IRemote.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\bin\Debug\IRemote.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\obj\Debug\server.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\server\obj\Debug\server.pdb

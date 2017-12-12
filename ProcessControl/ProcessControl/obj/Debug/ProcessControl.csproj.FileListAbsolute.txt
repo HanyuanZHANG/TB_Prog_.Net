@@ -1,0 +1,14 @@
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\bin\Debug\ProcessControl.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\MainWindow.g.cs
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\App.g.cs
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl_MarkupCompile.cache
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl_MarkupCompile.lref
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\bin\Debug\ProcessControl.exe
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\bin\Debug\ProcessControl.pdb
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\MainWindow.baml
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl.g.resources
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl.exe
+\\mac\home\documents\visual studio 2015\Projects\ProcessControl\ProcessControl\obj\Debug\ProcessControl.pdb

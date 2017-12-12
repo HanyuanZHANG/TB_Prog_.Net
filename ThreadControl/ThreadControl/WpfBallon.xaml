@@ -1,0 +1,52 @@
+﻿<Window x:Class="WpfAppliTh.WindowBallon"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        Window.Closing="Window_Closing"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WindowBallon" Height="215" Width="280" 
+        WindowStyle="SingleBorderWindow" ShowInTaskbar="False"
+        AllowsTransparency="False" Opacity="1" Background="Blue" HorizontalAlignment="Center" 
+        HorizontalContentAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" 
+        ResizeMode="NoResize">
+    <StackPanel x:Name="LayoutRoot" Background="Azure" VerticalAlignment="Stretch">
+        <StackPanel.Resources>
+            <Storyboard x:Key="myStoryboard" AutoReverse="True" RepeatBehavior="Forever" >
+                <DoubleAnimation From="1" To="3" Duration="00:00:1"
+                                 Storyboard.TargetName="myScaleTransform"
+                                 Storyboard.TargetProperty="ScaleX">
+                    <DoubleAnimation.EasingFunction>
+                        <BackEase Amplitude="0.3" EasingMode="EaseInOut"/>
+                    </DoubleAnimation.EasingFunction>
+                </DoubleAnimation>
+                <DoubleAnimation From="1" To="3" Duration="0:0:1"
+                                 Storyboard.TargetName="myScaleTransform"
+                                 Storyboard.TargetProperty="ScaleY">
+                    <DoubleAnimation.EasingFunction>
+                        <BackEase Amplitude="0.3" EasingMode="EaseInOut"/>
+                    </DoubleAnimation.EasingFunction>
+                </DoubleAnimation>
+                <ColorAnimation Storyboard.TargetName="MyAnimatedBrush"
+                                Storyboard.TargetProperty="Color"
+                                To="Blue" Duration="0:0:1" >
+                </ColorAnimation>
+
+            </Storyboard>
+        </StackPanel.Resources>
+        <StackPanel.Triggers>
+            <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+                <BeginStoryboard Storyboard="{StaticResource myStoryboard}"/>
+            </EventTrigger>
+        </StackPanel.Triggers>
+
+        <Ellipse Margin="60" x:Name="myEllipse" RenderTransformOrigin="0.5, 0.5" Width="50" Height="50">
+            <Ellipse.Fill>
+                <SolidColorBrush x:Name="MyAnimatedBrush" Color="Orange" />
+            </Ellipse.Fill>
+
+            <Ellipse.RenderTransform>
+                <ScaleTransform x:Name="myScaleTransform"/>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+
+    </StackPanel>
+</Window>
+

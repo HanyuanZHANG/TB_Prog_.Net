@@ -1,0 +1,10 @@
+\\campus.enst-bretagne.fr\homes\hzhang02\Visual Studio 2015\Projects\remoteClient\IRemote\bin\Debug\IRemote.dll
+\\campus.enst-bretagne.fr\homes\hzhang02\Visual Studio 2015\Projects\remoteClient\IRemote\bin\Debug\IRemote.pdb
+\\campus.enst-bretagne.fr\homes\hzhang02\Visual Studio 2015\Projects\remoteClient\IRemote\obj\Debug\IRemote.csprojResolveAssemblyReference.cache
+\\campus.enst-bretagne.fr\homes\hzhang02\Visual Studio 2015\Projects\remoteClient\IRemote\obj\Debug\IRemote.dll
+\\campus.enst-bretagne.fr\homes\hzhang02\Visual Studio 2015\Projects\remoteClient\IRemote\obj\Debug\IRemote.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\IRemote\bin\Debug\IRemote.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\IRemote\bin\Debug\IRemote.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\IRemote\obj\Debug\IRemote.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\IRemote\obj\Debug\IRemote.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\remoteClient\remoteClient\IRemote\obj\Debug\IRemote.pdb

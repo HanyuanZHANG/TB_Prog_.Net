@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ThreadControl\Premier\bin\Debug\Premier.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ThreadControl\Premier\bin\Debug\Premier.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ThreadControl\Premier\obj\Debug\Premier.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ThreadControl\Premier\obj\Debug\Premier.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\ThreadControl\Premier\obj\Debug\Premier.pdb
